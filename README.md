@@ -41,7 +41,7 @@ Directions: Write a sql query or sql queries that can answer the following quest
 
 ### Part 4: Final Report
 
-Directions: Write a query that returns the following collumns:
+Directions: Write a query that returns the following columns:
 
 | Pokemon Name | Trainer Name | Level | Primary Type | Secondary Type |
 |:------------:|:------------:|:-----:|:------------:|:--------------:|
